@@ -1,5 +1,4 @@
 public class practice {
 
-    // one
 
 }
